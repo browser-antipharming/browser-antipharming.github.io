@@ -12,6 +12,6 @@
 This extension fixes pharming. By comparing the IP received by Chrome to the IP as resolved by an external DNS server, we can alert
 you when something is fishy, or should we say phishy, or should we say pharmaceutical (please keep reading!)
 
-To install the app, download bundle.zip from https://github.com/browser-antipharming/antipharming/ and load the app in developer mode.
+To install the app, download ext.zip from https://github.com/browser-antipharming/antipharming/ and load the app in developer mode.
 
 Happy antipharming!
